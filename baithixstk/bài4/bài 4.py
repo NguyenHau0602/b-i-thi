@@ -1,0 +1,5 @@
+ten_va_id = str(input("Nhập tên và mã sv: "))
+list(ten_va_id)
+t = tuple(ten_va_id)
+print(list(ten_va_id))
+print(t)
